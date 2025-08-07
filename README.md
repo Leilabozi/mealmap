@@ -21,18 +21,26 @@ App Evaluation
 
 *Scope*:The MVP will focus on three core flows - creating a meal plan, browsing and saving recipes, generating grocery list.
 
+### Video Walkthrough 
+<div>
+    <a href="https://www.loom.com/share/366b6fa1d9f947a6875351e47fd00365">
+    </a>
+    <a href="https://www.loom.com/share/366b6fa1d9f947a6875351e47fd00365">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/366b6fa1d9f947a6875351e47fd00365-61daca04c1fe0205-full-play.gif">
+    </a>
+  </div>
+
 ### Product Spec
 **1. User Stories (Required and Optional)**
 Required Must-have Stories
-- User can create and view a weekly meal plan
-- User can browse a list of recipes
-- User can view recipe details (ingredients, steps, image)
-- User can add a recipe to a specific day
-- User can view and manage grocery list auto-generated from meals
-- Data persists between app launches
+[x] User can create and view a weekly meal plan
+[x] User can browse a list of recipes
+[x] User can view recipe details (ingredients, steps, image)
+[x] User can add a recipe to a specific day
+[x] User can view grocery list auto-generated from meals
 
 
-Optional Nice-to-have Stories
+Future Nice-to-have Stories
 
 - User can filter recipes by diet type or ingredients
 - User can favorite/save recipes
