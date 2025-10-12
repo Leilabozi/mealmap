@@ -23,10 +23,10 @@ App Evaluation
 
 ### Video Walkthrough 
 <div>
-    <a href="https://www.loom.com/share/366b6fa1d9f947a6875351e47fd00365">
+    <a href="https://www.loom.com/share/7dcd07c1fd044ef683d920089303251c">
     </a>
-    <a href="https://www.loom.com/share/366b6fa1d9f947a6875351e47fd00365">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/366b6fa1d9f947a6875351e47fd00365-61daca04c1fe0205-full-play.gif">
+    <a href="https://www.loom.com/share/7dcd07c1fd044ef683d920089303251c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7dcd07c1fd044ef683d920089303251c-c64402c87571a9f4-full-play.gif">
     </a>
   </div>
 
@@ -38,6 +38,7 @@ Required Must-have Stories
 [x] User can view recipe details (ingredients, steps, image)
 [x] User can add a recipe to a specific day
 [x] User can view grocery list auto-generated from meals
+[x] User can delete item from the weekly planner 
 
 
 Future Nice-to-have Stories
