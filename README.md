@@ -23,10 +23,10 @@ App Evaluation
 
 ### Video Walkthrough 
 <div>
-    <a href="https://www.loom.com/share/7dcd07c1fd044ef683d920089303251c">
+    <a href="https://www.loom.com/share/ebcfd3ee6b324724bc8466d93b727fd1">
     </a>
-    <a href="https://www.loom.com/share/7dcd07c1fd044ef683d920089303251c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7dcd07c1fd044ef683d920089303251c-c64402c87571a9f4-full-play.gif">
+    <a href="https://www.loom.com/share/ebcfd3ee6b324724bc8466d93b727fd1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ebcfd3ee6b324724bc8466d93b727fd1-6dbb9d998822078c-full-play.gif#t=0.1">
     </a>
   </div>
 
