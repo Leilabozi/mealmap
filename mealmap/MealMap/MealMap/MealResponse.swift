@@ -1,10 +1,10 @@
 import Foundation
 
 struct MealResponse: Codable {
-    let meals: [APIMeal]
+    let meals: [APIMeal]? // API returns null when no results
 }
 
-struct APIMeal: Codable, Hashable {
+struct APIMeal: Codable, Hashable, Identifiable {
     let idMeal: String
     let strMeal: String
     let strMealThumb: String?
@@ -47,8 +47,10 @@ struct APIMeal: Codable, Hashable {
         init?(intValue: Int) { nil }
     }
     
+    var id: String { idMeal }
+
     static func == (lhs: APIMeal, rhs: APIMeal) -> Bool {
-        return lhs.idMeal == rhs.idMeal
+        lhs.idMeal == rhs.idMeal
     }
     
     func hash(into hasher: inout Hasher) {
