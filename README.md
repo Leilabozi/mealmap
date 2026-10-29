@@ -1,11 +1,11 @@
 # Original App Design Project 
 
-## MealMap
+## Mealio (used to be MealMap)
 
 ### Overview
 
 Description
-***MealMap*** is an iOS app designed to streamline weekly meal planning and grocery shopping. Whether you're a busy student, fitness enthusiast, or someone looking to eat more intentionally, MealMap helps you organize meals, explore recipes, and build efficient shopping lists — all in one sleek, user-friendly experience.
+***Mealio*** is an iOS app designed to streamline weekly meal planning and grocery shopping. Whether you're a busy student, fitness enthusiast, or someone looking to eat more intentionally, MealMap helps you organize meals, explore recipes, and build efficient shopping lists — all in one sleek, user-friendly experience.
 
 App Evaluation
 
@@ -22,13 +22,9 @@ App Evaluation
 *Scope*:The MVP will focus on three core flows - creating a meal plan, browsing and saving recipes, generating grocery list.
 
 ### Video Walkthrough 
-<div>
-    <a href="https://www.loom.com/share/ebcfd3ee6b324724bc8466d93b727fd1">
-    </a>
-    <a href="https://www.loom.com/share/ebcfd3ee6b324724bc8466d93b727fd1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ebcfd3ee6b324724bc8466d93b727fd1-6dbb9d998822078c-full-play.gif#t=0.1">
-    </a>
-  </div>
+
+
+
 
 ### Product Spec
 **1. User Stories (Required and Optional)**
