@@ -23,8 +23,7 @@ App Evaluation
 
 ### Video Walkthrough 
 
-
-
+[![Watch the DayTrip demo](https://img.youtube.com/vi/tMRG3_90bOI/hqdefault.jpg)](https://youtube.com/shorts/tMRG3_90bOI?feature=share)
 
 ### Product Spec
 **1. User Stories (Required and Optional)**
@@ -65,18 +64,8 @@ Recipes → Recipe Detail
 Recipe Detail → Meal Plan (assign to a day)
 Recipe Detail → Grocery List (view ingredients)
 
-### **Wireframes**
-https://www.figma.com/design/fOras4tMErBhFtrB2r3y1l/MealMap?node-id=0-1&t=LNt6whteQ9RWdOpr-1
 
-### **Schema**
-[This section will be completed in Unit 9]
 
-### **Models**
-| **Model**     | **Properties**                                                   |
-| ------------- | ---------------------------------------------------------------- |
-| `Recipe`      | id, title, imageURL, ingredients\[], steps\[], cookTime, tags\[] |
-| `MealPlan`    | id, dayOfWeek, recipeIDs\[]                                      |
-| `GroceryItem` | id, name, quantity, isChecked, associatedRecipeID                |
 
 
 ### **Networking**
